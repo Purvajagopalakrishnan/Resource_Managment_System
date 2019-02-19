@@ -1,0 +1,11 @@
+C:\Users\purvajag\source\repos\ResourceManagementSystem\ResourceManagementSystem\bin\Debug\netcoreapp2.1\ResourceManagementSystem.deps.json
+C:\Users\purvajag\source\repos\ResourceManagementSystem\ResourceManagementSystem\bin\Debug\netcoreapp2.1\ResourceManagementSystem.runtimeconfig.json
+C:\Users\purvajag\source\repos\ResourceManagementSystem\ResourceManagementSystem\bin\Debug\netcoreapp2.1\ResourceManagementSystem.runtimeconfig.dev.json
+C:\Users\purvajag\source\repos\ResourceManagementSystem\ResourceManagementSystem\bin\Debug\netcoreapp2.1\ResourceManagementSystem.dll
+C:\Users\purvajag\source\repos\ResourceManagementSystem\ResourceManagementSystem\obj\Debug\netcoreapp2.1\ResourceManagementSystem.csprojAssemblyReference.cache
+C:\Users\purvajag\source\repos\ResourceManagementSystem\ResourceManagementSystem\obj\Debug\netcoreapp2.1\ResourceManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\purvajag\source\repos\ResourceManagementSystem\ResourceManagementSystem\obj\Debug\netcoreapp2.1\ResourceManagementSystem.RazorAssemblyInfo.cache
+C:\Users\purvajag\source\repos\ResourceManagementSystem\ResourceManagementSystem\obj\Debug\netcoreapp2.1\ResourceManagementSystem.RazorAssemblyInfo.cs
+C:\Users\purvajag\source\repos\ResourceManagementSystem\ResourceManagementSystem\obj\Debug\netcoreapp2.1\ResourceManagementSystem.AssemblyInfoInputs.cache
+C:\Users\purvajag\source\repos\ResourceManagementSystem\ResourceManagementSystem\obj\Debug\netcoreapp2.1\ResourceManagementSystem.AssemblyInfo.cs
+C:\Users\purvajag\source\repos\ResourceManagementSystem\ResourceManagementSystem\obj\Debug\netcoreapp2.1\ResourceManagementSystem.RazorTargetAssemblyInfo.cache
